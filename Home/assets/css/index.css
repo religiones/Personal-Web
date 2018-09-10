@@ -1,0 +1,22 @@
+/* css style */
+body{
+    padding: 0%;
+    margin: 0%;
+    font-family: Roboto;
+    font-size: 1em;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+ul{
+    list-style: none;
+}
+
+#wrapper{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
